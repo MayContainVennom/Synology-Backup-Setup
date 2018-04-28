@@ -1,0 +1,15 @@
+Pi Setup!
+
+The main role of the Raspberry Pi in this setup is to provide a VPN Gateway for the Synology to Connect 
+to the Dedi.
+
+Bellow are the Guides I used to Get the Pi up and running:
+
+Open-VPN 
+http://www.instructables.com/id/Raspberry-Pi-VPN-Gateway/
+
+Using the Above guide, instead of getting the .ovpn file from a VPN provider we instead need to get this from the one we Created on the Dedi. Other than this the setup is Identicle.
+
+
+Also in this folder you will see a Python Script that is used to Ping the Dedi and Display on a PiLite the outcome. Not required for this setup
+but its something I worked on for this project.
