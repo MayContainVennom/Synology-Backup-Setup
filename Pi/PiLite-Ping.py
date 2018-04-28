@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-#--------------------------------------
-#
-# Pi-Lite Custom Example #1
-#
-# Author : Matt Hawkins
-# Date   : 06/10/2013
-#
-# http://www.raspberrypi-spy.co.uk/
-#
-#--------------------------------------
-
 import os
 import sys
 import serial
